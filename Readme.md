@@ -4,10 +4,15 @@ Bienvenido a mi repositorio donde documentaré mi viaje en el aprendizaje de Pyt
 
 ## 📚 Contenido del Repositorio
 **Proyectos Destacados:**
+  - **Seguimiento de Manos**
   - **Conversor de Texto a Voz:** Un proyecto que convierte texto en audio utilizando bibliotecas de Python.
   - **Juego Arcade Pong:** La clásica experiencia de Pong, creada usando el módulo `turtle` para gráficos y detección de colisiones.
+  ENTRE OTROS
+
+  Y Práctica sobre varios ejercicios como:
 - **Recursividad:** Ejercicios y prácticas que exploran la técnica de programación recursiva.
 - **Programación Orientada a Objetos (POO):** Clases y ejemplos que ilustran los conceptos de POO en Python.
+- **Programación con ORM**
 - **Practicando:** Una gran serie de ejercicios de tofod tipo usando bibliotecas de todo tipo sore todo también para practicar la lógica complicada.
 - **Solid:** Ejercicios para prcticar un poco el Solid en Python
 
